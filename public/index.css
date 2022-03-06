@@ -1,0 +1,19 @@
+.nav-bar {
+  background-color: #192646;
+  height: 102px;
+}
+.nav-bar nav{
+    margin-left:  30%;
+}
+.nav-bar nav a {
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 50px;
+  text-decoration: none;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 27px;
+  color: #faf6f6;
+}
