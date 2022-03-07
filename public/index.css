@@ -39,16 +39,18 @@
 
 /* ==================Carausela ==================*/
 .image-carousel img {
-  height: 35vw;
+  height: 30vw;
 }
 
 /* ===================Middle-nav=================.nav-middle= */
 .middle-components{
   margin-top: 40px;
-  margin-left: 30vw;
-  margin-right: 35vw;
+  margin-left: 35vw;
+  width: 39.4vw;
+  margin-right: 30vw;
   background-color: rgb(255, 249, 249);
-  height: 80vh;
+  height: 63vh;
+  margin-bottom: 50px;
 }
 .middle-components .nav-middle{
   margin-left: 2vw;
@@ -82,4 +84,50 @@
 .tweets-section{
   float: left;
   margin-left: 8vw;
+}
+
+.footer-style{
+  height: 10vw;
+  background-color: #192646;
+}
+.social-media nav{
+  margin-left: 35vw;
+}
+.social-media nav a{
+  display: inline-block;
+  margin-left: 40px;
+  padding-top: 6vh;
+  font-size: 25px;
+  color: #fff;
+}
+.publication-style{
+  float: left;
+  margin-top: 40px;
+
+}
+.publication-style nav a{
+  display: block;
+  font-size: 20px;
+  color: #fff;
+  margin-top: 10px;
+  margin-left: 50px;
+  text-decoration: none;
+}
+
+.contact-map-style{
+  float: right;
+  margin-top: -50px;
+  margin-right: 50px;
+}
+.contact-map-style nav a{
+  display: block;
+  font-size: 20px;
+  color: #fff;margin-top: 10px;
+  text-decoration: none;
+  
+}
+.copright-style p{
+  color: #fff;
+  margin-top: 40px;
+  text-align: center;
 }

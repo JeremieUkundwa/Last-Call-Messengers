@@ -2,6 +2,7 @@ import React from "react";
 import Header from "./header-components/Header";
 import CarouselComponent from "./Carousel/CarouselComponent";
 import MiddleComponent from "./main-components/MiddleComponent";
+import Footer from "./Footer-Components/Footer";
 
 function App() {
     return (
@@ -9,6 +10,7 @@ function App() {
             <Header />
             <CarouselComponent />
             <MiddleComponent />
+            <Footer />
         </div>
     );
 }

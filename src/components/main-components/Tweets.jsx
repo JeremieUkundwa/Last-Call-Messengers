@@ -8,7 +8,7 @@ function Tweets() {
                 <TwitterTimelineEmbed
                     onLoad={function noRefCheck() { }}
                     options={{
-                        height: 600,
+                        height: 650,
                         width: 400
                     }}
                     screenName="ukundwa_jeremie"
