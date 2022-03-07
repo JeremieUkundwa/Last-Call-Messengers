@@ -1,10 +1,15 @@
 import React from "react";
-import NavBarLink from "./header-components/NavBarLink";
+import Header from "./header-components/Header";
+import CarouselComponent from "./Carousel/CarouselComponent";
+import MiddleComponent from "./main-components/MiddleComponent";
 
-
-function App(){
-    return(
-        <NavBarLink/>
+function App() {
+    return (
+        <div style={{backgroundColor: '#EEE6CE'}}>
+            <Header />
+            <CarouselComponent />
+            <MiddleComponent />
+        </div>
     );
 }
 
