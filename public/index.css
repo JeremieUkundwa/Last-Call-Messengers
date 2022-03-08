@@ -1,4 +1,3 @@
-
 .nav-bar {
   background-color: #192646;
   height: 102px;
@@ -24,7 +23,8 @@
 .nav-bar nav {
   margin-left: 30%;
 }
-.nav-bar nav a {
+
+.nav-bar nav .nav-link-header {
   display: inline-block;
   margin-top: 30px;
   margin-left: 50px;
@@ -34,7 +34,10 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 27px;
-  color: #faf6f6;
+  color: #fff;
+}
+.nav-bar nav .nav-link-header:hover {
+  color: #ffb72b;
 }
 
 /* ==================Carausela ==================*/
@@ -43,7 +46,7 @@
 }
 
 /* ===================Middle-nav=================.nav-middle= */
-.middle-components{
+.middle-components {
   margin-top: 40px;
   margin-left: 35vw;
   width: 39.4vw;
@@ -52,12 +55,11 @@
   height: 63vh;
   margin-bottom: 50px;
 }
-.middle-components .nav-middle{
+.middle-components .nav-middle {
   margin-left: 2vw;
-  
 }
 
-.middle-caption{
+.middle-caption {
   display: block;
   margin-top: 30px;
 }
@@ -76,36 +78,40 @@
   color: #4f3f96;
 }
 
-.middle-image-carousel{
+.middle-image-carousel {
   width: 700px;
   height: 20vw;
 }
 
-.tweets-section{
+.tweets-section {
   float: left;
   margin-left: 8vw;
 }
 
-.footer-style{
-  height: 10vw;
+.footer-style {
+  display: inherit;
+  position: static;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  height: 15vw;
   background-color: #192646;
 }
-.social-media nav{
+.social-media nav {
   margin-left: 35vw;
 }
-.social-media nav a{
+.social-media nav a {
   display: inline-block;
   margin-left: 40px;
   padding-top: 6vh;
   font-size: 25px;
   color: #fff;
 }
-.publication-style{
+.publication-style {
   float: left;
   margin-top: 40px;
-
 }
-.publication-style nav a{
+.publication-style nav a {
   display: block;
   font-size: 20px;
   color: #fff;
@@ -114,20 +120,24 @@
   text-decoration: none;
 }
 
-.contact-map-style{
+.contact-map-style {
   float: right;
   margin-top: -50px;
   margin-right: 50px;
 }
-.contact-map-style nav a{
+.contact-map-style nav a {
   display: block;
   font-size: 20px;
-  color: #fff;margin-top: 10px;
+  color: #fff;
+  margin-top: 10px;
   text-decoration: none;
-  
 }
-.copright-style p{
+.copright-style p {
   color: #fff;
   margin-top: 40px;
   text-align: center;
+}
+
+.react-body{
+  background-color: #FAF6F6;
 }
