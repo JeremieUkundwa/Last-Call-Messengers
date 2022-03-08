@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Last-Call-Messengers/static/css/main.a6df9486.css",
+    "main.js": "/Last-Call-Messengers/static/js/main.9aa583aa.js",
+    "static/media/mb-3.jpg": "/Last-Call-Messengers/static/media/mb-3.b392df2f742b05dbc900.jpg",
+    "static/media/mb-1.jpg": "/Last-Call-Messengers/static/media/mb-1.5a96dc1c48a9a20cd1a9.jpg",
+    "static/media/mb-2.jpg": "/Last-Call-Messengers/static/media/mb-2.5571a3b87d4c8f2b4fca.jpg",
+    "static/media/bg-2.jpg": "/Last-Call-Messengers/static/media/bg-2.bdb7e7249c2659853dde.jpg",
+    "static/media/bg-1.jpg": "/Last-Call-Messengers/static/media/bg-1.c7a8314662add9fb7438.jpg",
+    "static/media/evangelist.jpg": "/Last-Call-Messengers/static/media/evangelist.a1ad29db75ca6556ce1c.jpg",
+    "static/media/pastor.png": "/Last-Call-Messengers/static/media/pastor.908865bc24959b268f63.png",
+    "static/media/bg-3.jpeg": "/Last-Call-Messengers/static/media/bg-3.1a0b82716a3a481a963e.jpeg",
+    "static/media/join us hands.png": "/Last-Call-Messengers/static/media/join us hands.9945ee18915e4a9d826e.png",
+    "static/media/logo.jpeg": "/Last-Call-Messengers/static/media/logo.72ee4087fb60b43ec1e7.jpeg",
+    "static/media/deacon.jpg": "/Last-Call-Messengers/static/media/deacon.cdf21b6a76e187e2c07e.jpg",
+    "index.html": "/Last-Call-Messengers/index.html",
+    "main.a6df9486.css.map": "/Last-Call-Messengers/static/css/main.a6df9486.css.map",
+    "main.9aa583aa.js.map": "/Last-Call-Messengers/static/js/main.9aa583aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6df9486.css",
+    "static/js/main.9aa583aa.js"
+  ]
+}
