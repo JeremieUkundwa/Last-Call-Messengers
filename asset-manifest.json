@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Last-Call-Messengers/static/css/main.a6df9486.css",
-    "main.js": "/Last-Call-Messengers/static/js/main.9aa583aa.js",
+    "main.js": "/Last-Call-Messengers/static/js/main.21023b65.js",
     "static/media/mb-3.jpg": "/Last-Call-Messengers/static/media/mb-3.b392df2f742b05dbc900.jpg",
     "static/media/mb-1.jpg": "/Last-Call-Messengers/static/media/mb-1.5a96dc1c48a9a20cd1a9.jpg",
     "static/media/mb-2.jpg": "/Last-Call-Messengers/static/media/mb-2.5571a3b87d4c8f2b4fca.jpg",
@@ -15,10 +15,10 @@
     "static/media/deacon.jpg": "/Last-Call-Messengers/static/media/deacon.cdf21b6a76e187e2c07e.jpg",
     "index.html": "/Last-Call-Messengers/index.html",
     "main.a6df9486.css.map": "/Last-Call-Messengers/static/css/main.a6df9486.css.map",
-    "main.9aa583aa.js.map": "/Last-Call-Messengers/static/js/main.9aa583aa.js.map"
+    "main.21023b65.js.map": "/Last-Call-Messengers/static/js/main.21023b65.js.map"
   },
   "entrypoints": [
     "static/css/main.a6df9486.css",
-    "static/js/main.9aa583aa.js"
+    "static/js/main.21023b65.js"
   ]
 }
